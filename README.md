@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am Computer Engineering student at Alfonso X el Sabio University.
 
 <!--
 **VictorBague/VictorBague** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
